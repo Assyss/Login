@@ -1,0 +1,63 @@
+body {
+    font-family: 'Rampart One', cursive;
+    margin: 0%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.img {
+    background-image: url(https://c8y3s8d4.stackpathcdn.com/wp-content/uploads/2018/12/cenario-atracao-detona-ralph-disney-springs-orlando.jpg);
+    background-size: cover;
+    max-width: 100%;
+    padding: 215px 0px 150px 10px;
+}
+
+.container {
+    text-align: center;
+    margin: 0px 380px auto 380px;
+    border-radius: 10px;
+    padding: 15px 0px 15px 0px;
+    box-shadow: 0px 0px 15px 1px #000000;
+    color: white;
+}
+
+.name {
+    margin: 10px 0px 15px 0px;
+    text-align: center;
+    text-shadow: 0px 0px 10px #1f8fb1;
+}
+
+.email {
+    margin: 10px 0px 15px 0px;
+    text-align: center;
+}
+
+.password {
+    margin: 15px 0px 0px 0px;
+    text-align: center;
+}
+
+.btn {
+    color: black;
+    background-color: white;
+    padding: 9px;
+    border-radius: 5px;
+    margin: 17px 10px 10px 10px;
+    border: none;
+    font-size: 15px;
+    box-shadow: 0px 0px 10px 1px #1f8fb1;
+    cursor: pointer;
+    font-size: smaller;
+}
+
+#editplaceholder {
+    text-align: center;
+    border: none;
+    font-size: 15px;
+    padding: 8px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 1px #1f8fb1;
+    cursor: inherit;
+    /* text-decoration: underline; */
+    /* background: none; */
+}
